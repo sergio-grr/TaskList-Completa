@@ -1,0 +1,22 @@
+h2{
+  color: white;
+}
+
+.custom-checkbox {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.custom-checkbox.checked {
+  background-color: #20c997;
+}
+
+.small-button {
+  width: 18px;
+  height: 18px;
+
+}

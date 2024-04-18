@@ -1,0 +1,9 @@
+input {
+  width: 87%;
+  text-align: center;
+}
+
+.btn-primary.mb-2 {
+  width: 100px;
+  font-size: 14px;
+}

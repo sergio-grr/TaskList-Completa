@@ -1,0 +1,38 @@
+h1 {
+  color: #F8F4E3 ;
+  animation: fadeIn 3s ease-in-out;
+  text-transform: uppercase;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+#header {
+  background-color: #2A2B2A;
+
+}
+
+#box1 {
+  background-color: #ef9ca8;
+  border-radius: 20%;
+  margin: 10px;
+  text-align: center;
+  color: #2A2B2A;
+}
+
+#box2 {
+  background-color: #ec566c;
+  border-radius: 20%;
+  margin: 10px;
+  text-align: center;
+}
+
+#box3 {
+  background-color: #ff8966;
+  border-radius: 20%;
+  margin: 10px;
+  text-align: center;
+  color: #2A2B2A;
+}
